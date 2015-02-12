@@ -1,13 +1,9 @@
-package com.kingpei.as.androidstudy;
+package com.kingpei.as.badger;
 
-import android.content.BroadcastReceiver;
-import android.content.Context;
-import android.content.Intent;
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.MotionEvent;
 
 
 public class MainActivity extends ActionBarActivity {

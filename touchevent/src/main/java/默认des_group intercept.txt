@@ -1,0 +1,16 @@
+Ä¬ÈÏdescendantFocusability / ViewGroup onInterceptTouchEvent true
+
+02-11 13:32:22.398    3005-3005/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.view.TestGroup©s onInterceptTouchEvent consumed:true
+02-11 13:32:22.398    3005-3005/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.view.TestGroup©s event:0
+02-11 13:32:22.398    3005-3005/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.view.TestGroup©s onTouchEvent consumed: false
+02-11 13:32:22.398    3005-3005/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.view.TestGroup©s event:0
+02-11 13:32:22.398    3005-3005/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.view.TestGroup©s dispatchTouchEvent consumed:false
+02-11 13:32:22.398    3005-3005/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.view.TestGroup©s event:0
+02-11 13:32:22.398    3005-3005/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.MainActivity©s onTouchEvent consumed: false
+02-11 13:32:22.398    3005-3005/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.MainActivity©s event:0
+02-11 13:32:22.398    3005-3005/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.MainActivity©s dispatchTouchEvent consumed:false
+02-11 13:32:22.398    3005-3005/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.MainActivity©s event:0
+02-11 13:32:22.475    3005-3005/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.MainActivity©s onTouchEvent consumed: false
+02-11 13:32:22.475    3005-3005/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.MainActivity©s event:1
+02-11 13:32:22.475    3005-3005/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.MainActivity©s dispatchTouchEvent consumed:false
+02-11 13:32:22.475    3005-3005/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.MainActivity©s event:1

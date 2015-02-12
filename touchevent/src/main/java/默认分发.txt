@@ -1,0 +1,21 @@
+È«Ä¬ÈÏ
+02-11 13:37:47.948    3080-3080/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.view.TestGroup©s onInterceptTouchEvent consumed:false
+02-11 13:37:47.948    3080-3080/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.view.TestGroup©s event:0
+02-11 13:37:47.948    3080-3080/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.view.TestView©s onTouchEvent consumed: true
+02-11 13:37:47.948    3080-3080/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.view.TestView©s event:0
+02-11 13:37:47.948    3080-3080/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.view.TestView©s dispatchTouchEvent consumed:true
+02-11 13:37:47.948    3080-3080/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.view.TestView©s event:0
+02-11 13:37:47.948    3080-3080/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.view.TestGroup©s dispatchTouchEvent consumed:true
+02-11 13:37:47.948    3080-3080/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.view.TestGroup©s event:0
+02-11 13:37:47.948    3080-3080/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.MainActivity©s dispatchTouchEvent consumed:true
+02-11 13:37:47.948    3080-3080/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.MainActivity©s event:0
+02-11 13:37:48.011    3080-3080/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.view.TestGroup©s onInterceptTouchEvent consumed:false
+02-11 13:37:48.011    3080-3080/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.view.TestGroup©s event:1
+02-11 13:37:48.012    3080-3080/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.view.TestView©s onTouchEvent consumed: true
+02-11 13:37:48.012    3080-3080/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.view.TestView©s event:1
+02-11 13:37:48.012    3080-3080/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.view.TestView©s dispatchTouchEvent consumed:true
+02-11 13:37:48.012    3080-3080/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.view.TestView©s event:1
+02-11 13:37:48.012    3080-3080/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.view.TestGroup©s dispatchTouchEvent consumed:true
+02-11 13:37:48.012    3080-3080/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.view.TestGroup©s event:1
+02-11 13:37:48.012    3080-3080/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.MainActivity©s dispatchTouchEvent consumed:true
+02-11 13:37:48.012    3080-3080/com.kingpei.as.touchevent V/com.kingpei.as.touchevent.MainActivity©s event:1
